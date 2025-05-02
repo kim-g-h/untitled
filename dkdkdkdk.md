@@ -3,7 +3,7 @@
 ### 아자차
 # 카타파하
 aespa
-winter
-ive
-liz
+winter\n
+ive\n
+liz\n
 
