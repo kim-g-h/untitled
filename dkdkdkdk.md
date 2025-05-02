@@ -4,3 +4,6 @@
 # 카타파하
 aespa
 winter
+ive
+liz
+
